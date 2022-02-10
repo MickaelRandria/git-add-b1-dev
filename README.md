@@ -10,3 +10,6 @@ git config --global user.email "Mickarandrianan@gmail.com"
  git commit -m "init repo git"
 ```
 
+```bash
+git status
+```
